@@ -1,0 +1,25 @@
+{
+  "autologin": "auto login",
+  "id": "id",
+  "signIn": "sign in",
+
+  "message_comment" : "앱의 전체 메시지 관련 메시지",
+  "message": {
+    "inputId": "input your id",
+    "inputPassword": "input your password",
+    "forgetPassword": "forgot password"
+  },
+
+  "btn_comment" : "앱의 전체 메시지 관련 메시지",
+  "btn": {
+    "endTitle": "This App Closing?",
+    "confirm": "Confirm",
+    "cancle": "Cancle",
+    "end": "End"
+  },
+
+  "notice": "notice",
+  "signUp": "sign up",
+  "title": "E-Accounting",
+  "password": "password"
+}
